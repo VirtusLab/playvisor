@@ -1,0 +1,10 @@
+* Playvisor
+
+It is supervisor for play application.
+
+** Planed features
+
++ Monitor app - auto restart after crash 
++ Versioning deploy
++ Auto rollback if new version don't start
+
